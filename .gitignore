@@ -1,3 +1,5 @@
 # Ignore temporary files/directories
 tmp/
 .agents/
+codex-skills/
+AGENTS.md
